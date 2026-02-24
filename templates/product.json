@@ -56,7 +56,7 @@
             "share_label": "Share"
           }
         },
-        "wishlist_integration_wishlist_button_jUDbNC": {
+        "wishlist_integration_wishlist_button_VMnkNB": {
           "type": "shopify://apps/wishlist-integration/blocks/wishlist-button/019be03f-aac6-7a78-b79c-7812c8cbd46e",
           "settings": {}
         }
@@ -70,7 +70,7 @@
         "buy_buttons",
         "description",
         "share",
-        "wishlist_integration_wishlist_button_jUDbNC"
+        "wishlist_integration_wishlist_button_VMnkNB"
       ],
       "settings": {
         "enable_sticky_info": true,
